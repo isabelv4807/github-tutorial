@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by<ISABEL VELAZQUEZ>_
+_by ISABEL VELAZQUEZ_
 
 ---
 #### Git vs. GitHub
